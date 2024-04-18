@@ -3,3 +3,10 @@
 body{
     background-color: aqua; padding: 10%; font-family: 'Franklin Gothic Medium';
 }
+
+#corpo {
+    background: aquamarine;
+    border: 1px solid #787878;
+    border-radius: 5px;
+    margin: 0 auto;
+}
